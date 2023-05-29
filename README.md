@@ -3,7 +3,8 @@
 
 [![@switchalpha's Holopin board](https://holopin.me/switchalpha)](https://holopin.io/@switchalpha)
 
-<script src="https://tryhackme.com/badge/80257"></script>
-
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/crazyartz.png" alt="TryHackMe">
+</p>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=switchalpha.switchalpha)](#)
