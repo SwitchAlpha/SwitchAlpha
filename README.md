@@ -11,6 +11,7 @@
 
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/switchalpha.png" alt="TryHackMe">
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=switchalpha.switchalpha)](#)
 </p>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=switchalpha.switchalpha)](#)
+
