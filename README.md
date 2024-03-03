@@ -1,7 +1,6 @@
-
-[![SwitchAlpha Statics](https://github-readme-stats.vercel.app/api?username=switchalpha&show_icons=true&theme=tokyonight)](https://switchalpha.dev)
-
-
+<a href="https://switchalpha.dev">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=switchalpha&show_icons=true&theme=tokyonight)" />
+</a>
 
 [![@switchalpha's Holopin board](https://holopin.me/switchalpha)](https://holopin.io/@switchalpha)
 
