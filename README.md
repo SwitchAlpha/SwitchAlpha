@@ -1,9 +1,11 @@
+<p align="center">
 <a href="https://switchalpha.dev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=switchalpha" />
 </a>
 <a href="https://switchalpha.dev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=switchalpha&layout=compact&langs_count=8&card_width=320" />
 </a>
+</p>
 
 [![@switchalpha's Holopin board](https://holopin.me/switchalpha)](https://holopin.io/@switchalpha)
 
